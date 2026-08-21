@@ -1,5 +1,5 @@
 const target = new Date("2026-10-04T14:00:00+03:00");
-const WEB_APP_URL = "https://script.google.com/macros/s/AKfycbzxZH5yFs_Zr5q64BbmvVBFMjBonEk22vS7KRvC-vrkeMatZg1Fe2237GFjJwXW3Uk5LQ/exec";
+const WEB_APP_URL = "https://script.google.com/macros/s/AKfycbzTZ4B__WmjQvnc5Hkeojixy1eZRMT9g96i5Z0SblwRDILfBtH05pTlAF3hj5_1DUae/exec";
 
 function pad(n){ return String(n).padStart(2,"0"); }
 
